@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [E-Commerce-Backend-RESTAPI-](https://github.com/Alshahriar78/E-Commerce-Backend-RESTAPI-)
 
-- 🌱 I’m currently learning **Hook in REACT**
+- 🌱 I’m currently learning **Data Structure & Algorith**
 
 - 📫 How to reach me **alshahriar78@gmail.com**
 
