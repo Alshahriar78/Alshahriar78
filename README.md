@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Data Structure & Algorithm** [DSA_with_Javascript
 ](https://github.com/Alshahriar78/DSA_with_Javascript)
 
-- 🚀 Currently Building: A Task Manager REST API with Node.js, Express.js & User Authentication! 🔐💻 [TaskMangeerAPP_With_Middleware_authentication-RESTAPI
+- 🚀 Currently Building: A **Task Manager REST API** with Node.js, Express.js & User Authentication! 🔐💻 [TaskMangeerAPP_With_Middleware_authentication-RESTAPI
 ](https://github.com/Alshahriar78/TaskMangeerAPP_With_Middleware_authentication-RESTAPI-)
 
 - 📫 How to reach me **alshahriar78@gmail.com**
