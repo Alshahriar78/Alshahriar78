@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Al-Shahoriar</h1>
-<h3 align="center">A passionate for MERN Skills set from Bangladesh</h3>
+<h3 align="center">A passionate for Backend Software Skills set from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alshahriar78&label=Profile%20views&color=0e75b6&style=flat" alt="alshahriar78" /> </p>
 
 - 🔭 I’m currently working on **Backend Project->** [E-Commerce-Backend-RESTAPI-](https://github.com/Alshahriar78/E-Commerce-Backend-RESTAPI-)
--  🔭 I’m also currently working on another **Backend Project->** [StorageManagementSystem](https://github.com/Alshahriar78/StorageManagementSystem_)
+
 
 - 🌱 I’m currently learning **Data Structure & Algorithm** [DSA_with_Javascript
 ](https://github.com/Alshahriar78/DSA_with_Javascript)
