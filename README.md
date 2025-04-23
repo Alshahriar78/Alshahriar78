@@ -7,8 +7,8 @@
 
 I'm a passionate and self-driven developer learning to build robust, scalable web applications using:
 
-- 🔹 **Javascript +Express.js + Node.js** 
-- 🔹 **Java + Spring Boot**
+- 🔹 **Java + Spring Boot** 
+- 🔹 **Javascript +Express.js + Node.js**
 - 🔹 Building REST APIs, Authentication, CRUD Operations
 - 🔹 Exploring databases: MySQL, MongoDB
 - 🔹 Enthusiastic about clean code and design patterns
