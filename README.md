@@ -16,13 +16,13 @@ I'm a passionate and self-driven developer learning to build robust, scalable we
 
 
 
-- 🔭 I’m currently working on **Backend Project->** **Lab Test & Doctor Appoinment Bokking ->** https://github.com/Alshahriar78/InternProject/tree/main/Appointment-Booking
+- 🔭 I’m currently working on **Backend Project->** **Lab Test & Doctor Appoinment Bokking =>** [AppoinmentBooking](https://github.com/Alshahriar78/InternProject/tree/main/Appointment-Booking)
 
 
-- 🌱 I’m currently learning **Data Structure & Algorithm** [DSA_with_Javascript
-](https://github.com/Alshahriar78/DSA_with_Javascript)
+- 🌱 I’m currently learning **Java Basic To Advance =>** [Java
+](https://github.com/Alshahriar78/JavaBasicToAdvance)
 
-- 🚀 Currently Building: A **Prescription Generation** with SpringBoot, HTML & Bootstrap! 🔐💻 [Prescription Geneation with User authentication with JWT
+- 🚀 Currently Building: A **Prescription Generation** with SpringBoot, HTML & Bootstrap! => 🔐💻 [Prescription Geneation with User authentication with JWT
 ](https://github.com/Alshahriar78/InternProject/tree/main/prescription_generation)
 
 - 📫 How to reach me **alshahriar78@gmail.com**
