@@ -10,7 +10,7 @@ I'm a passionate and self-driven developer learning to build robust, scalable we
 - 🔹 **Java + Spring Boot** 
 - 🔹 **Javascript +Express.js + Node.js + Nest Js**
 - 🔹 Building REST APIs, Authentication, CRUD Operations
-- 🔹 Exploring databases: MySQL, MongoDB
+- 🔹 Exploring databases: MS SQL, MySQL, MongoDB
 - 🔹 Enthusiastic about clean code and design patterns
 
 
