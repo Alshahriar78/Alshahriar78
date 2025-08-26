@@ -8,7 +8,7 @@
 I'm a passionate and self-driven developer learning to build robust, scalable web applications using:
 
 - 🔹 **Java + Spring Boot** 
-- 🔹 **Javascript +Express.js + Node.js + Nest Js**
+- 🔹 **Javascript +Express.js + Node.js + TypeScript + Nest Js**
 - 🔹 Building REST APIs, Authentication, CRUD Operations
 - 🔹 Exploring databases: MS SQL, MySQL, MongoDB
 - 🔹 Enthusiastic about clean code and design patterns
@@ -16,13 +16,10 @@ I'm a passionate and self-driven developer learning to build robust, scalable we
 
 
 
-- 🔭 I’m currently working on **Backend Project->** **E-Commerce Backend in Nest Js =>** [AppoinmentBooking]((https://github.com/Alshahriar78/ecommerce_nsetjs))
+- 🔭 I’m currently working on **Backend Project->** **E-Commerce Backend in Nest Js =>** [E-Commerce](https://github.com/Alshahriar78/ecommerce_nsetjs)
 
 
-- 🌱 I’m currently learning **Java Basic To Advance =>** [Java
-](https://github.com/Alshahriar78/JavaBasicToAdvance)
-
-- 🚀 Currently Building: A **Prescription Generation** with SpringBoot, HTML & Bootstrap! => 🔐💻 [Prescription Geneation with User authentication with JWT
+- 🚀 Building: A **Prescription Generation** with SpringBoot, HTML & Bootstrap! => 🔐💻 [Prescription Geneation with User authentication with JWT
 ](https://github.com/Alshahriar78/InternProject/tree/main/prescription_generation)
 
 - 📫 How to reach me **alshahriar78@gmail.com**
@@ -44,8 +41,8 @@ I'm a passionate and self-driven developer learning to build robust, scalable we
 
 | Category         | Tools & Technologies |
 |------------------|----------------------|
-| ☕ Backend        | Spring Boot, Node.js |
-| 🗃️ Database       | MySQL, MongoDB       |
+| ☕ Backend        | Spring Boot, Node.js, Nest js |
+| 🗃️ Database       | MySQL, MongoDB, MS SQL       |
 | ⚙️ Tools         | Git, GitHub, Postman, IntelliJ, VS Code |
 
 ---
@@ -62,10 +59,14 @@ I'm a passionate and self-driven developer learning to build robust, scalable we
 ## 📚 Learning Path
 
 1. ✅ Core Java & OOP Concepts
-2. ✅ REST API with Spring Boot
-3. 🔄 MERN Stack Projects
-4. 🔜 Java + Spring Security (JWT)
-5. 🔜 Microservices & Docker (Future)
+2. ✅ REST API with Spring Boot & Nest Js
+3. ✅ TypeScript Fundamentals (types, interfaces, generics, async/await, decorators)
+4. 🔄 NestJS + TypeORM (Backend with Relationships, DTOs, Validation, Guards, etc.)
+5. 🔄 MERN Stack Projects (Full-stack + React basics)
+6. 🔄 WebSocket & Socket.IO (Real-time apps: chat, notifications, live updates, multiplayer features)
+7. 🔜 TypeScript + Nest Security (JWT)
+8. 🔜 Java + Spring Security (JWT)
+9. 🔜 Microservices & Docker (Future)
 
 ---
 
