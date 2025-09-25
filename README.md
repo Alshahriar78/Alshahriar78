@@ -45,11 +45,11 @@ I'm a passionate and self-driven developer learning to build robust, scalable we
   </a>
   &nbsp;
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
   </a> 
   &nbsp;
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
@@ -85,25 +85,28 @@ I'm a passionate and self-driven developer learning to build robust, scalable we
 ---
 
 ## 🛠️ Currently Working On
----
 
-- 🔄 Spring Boot & Nest Js REST API with Authentication
-- Leaning Advance Java
-- 🎯 Problem Solving on [LeetCode](https://leetcode.com)
+- Learning **TypeScript** & **NestJS**  
+- 🔄 Building **Spring Boot & NestJS REST APIs** with Authentication & Authorization  
+- Learning **Advanced Java**  
+- 🗄️ Working with **MS SQL** (Database design, queries, migration, troubleshooting)  
+- 🎯 Problem Solving on [LeetCode](https://leetcode.com)  
 
 ---
 
 ## 📚 Learning Path
 
-1. ✅ Core Java & OOP Concepts
-2. ✅ REST API with Spring Boot & Nest Js
-3. ✅ TypeScript Fundamentals (types, interfaces, generics, async/await, decorators)
-4. 🔄 NestJS + TypeORM (Backend with Relationships, DTOs, Validation, Guards, etc.)
-5. 🔄 MERN Stack Projects (Full-stack + React basics)
-6. 🔄 WebSocket & Socket.IO (Real-time apps: chat, notifications, live updates, multiplayer features)
-7. 🔜 TypeScript + Nest Security (JWT)
-8. 🔜 Java + Spring Security (JWT)
-9. 🔜 Microservices & Docker (Future)
+✅ Core Java & OOP Concepts  
+✅ REST API with Spring Boot & NestJS  
+✅ TypeScript Fundamentals (types, interfaces, generics, async/await, decorators)  
+🔄 NestJS + TypeORM (Backend with Relationships, DTOs, Validation, Guards, etc.)  
+🔄 MS SQL (Database design, queries, migrations, troubleshooting)  
+🔄 WebSocket & Socket.IO (Real-time apps: chat, notifications, live updates, multiplayer features)  
+🔜 TypeScript + Nest Security (JWT)  
+🔜 Java + Spring Security (JWT)  
+🔜 React & React Native (Frontend + Mobile development)  
+🔜 Microservices & Docker (Future)  
+
 
 ---
 
