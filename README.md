@@ -96,14 +96,13 @@ I'm a passionate and self-driven developer learning to build robust, scalable we
 
 ## 📚 Learning Path
 
-✅ Core Java & OOP Concepts  
-✅ REST API with Spring Boot & NestJS  
+✅ Core JS,TS & OOP Concepts  
+✅ REST API with   NestJS  
 ✅ TypeScript Fundamentals (types, interfaces, generics, async/await, decorators)  
 🔄 NestJS + TypeORM (Backend with Relationships, DTOs, Validation, Guards, etc.)  
 🔄 MS SQL (Database design, queries, migrations, troubleshooting)  
 🔄 WebSocket & Socket.IO (Real-time apps: chat, notifications, live updates, multiplayer features)  
 🔜 TypeScript + Nest Security (JWT)  
-🔜 Java + Spring Security (JWT)  
 🔜 React & React Native (Frontend + Mobile development)  
 🔜 Microservices & Docker (Future)  
 
