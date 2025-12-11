@@ -16,11 +16,8 @@ I'm a passionate and self-driven developer learning to build robust, scalable we
 
 
 
-- 🔭 I’m currently working on **Backend Project->** **E-Commerce Backend in Nest Js =>** [E-Commerce](https://github.com/Alshahriar78/ecommerce_nsetjs)
+- 🔭 I’m currently working on **Backend Project->** **E-Commerce Backend in Express js =>** [E-Commerce](https://github.com/Alshahriar78/ecommerce_nsetjs)
 
-
-- 🚀 Building: A **Prescription Generation** with SpringBoot, HTML & Bootstrap! => 🔐💻 [Prescription Geneation with User authentication with JWT
-](https://github.com/Alshahriar78/InternProject/tree/main/prescription_generation)
 
 - 📫 How to reach me **alshahriar78@gmail.com**
 
@@ -32,13 +29,9 @@ I'm a passionate and self-driven developer learning to build robust, scalable we
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  </a>
+
+  
+  
   &nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
