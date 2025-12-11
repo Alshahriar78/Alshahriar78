@@ -71,18 +71,18 @@ I'm a passionate and self-driven developer learning to build robust, scalable we
 
 | Category         | Tools & Technologies |
 |------------------|----------------------|
-| ☕ Backend        | Spring Boot, Node.js, Nest js |
-| 🗃️ Database       | MySQL, MS SQL       |
-| ⚙️ Tools         | Git, GitHub, Postman, IntelliJ, VS Code |
+| ☕ Backend        | Node.js, Express.js, Nest js |
+| 🗃️ Database       | MySQL, MS SQL, MogoDB      |
+| ⚙️ Tools         | Git, GitHub, Postman,  VS Code |
 
 ---
 
 ## 🛠️ Currently Working On
 
 - Learning **TypeScript** & **NestJS**  
-- 🔄 Building **Spring Boot & NestJS REST APIs** with Authentication & Authorization  
-- Learning **Advanced Java**  
-- 🗄️ Working with **MS SQL** (Database design, queries, migration, troubleshooting)  
+- 🔄 Building **Express.JS Nest.JS REST APIs** with Authentication & Authorization  
+- Learning **Advanced Typescript**  
+- 🗄️ Working with **MS SQL,MongoDB** (Database design, queries, migration, troubleshooting)  
 - 🎯 Problem Solving on [LeetCode](https://leetcode.com)  
 
 ---
